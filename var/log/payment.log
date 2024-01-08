@@ -1,0 +1,154 @@
+[2024-01-01T17:16:08.557518+00:00] main.DEBUG: array (
+  'request' => 
+  array (
+    'customer' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'phone' => '124567',
+      'email' => 'abc@mail.com',
+    ),
+    'amount' => '62.91',
+    'paymentMethodNonce' => 'tokencc_bj_ywnqhs_vcbypr_z3s5v4_dfzcbx_hsy',
+    'orderId' => '000000003',
+    'merchantAccountId' => 'w9p3sr2vk8z7zjnc',
+    'channel' => 'Magento2GeneBT',
+    'options' => 
+    array (
+      'skipAdvancedFraudChecking' => false,
+    ),
+    'customFields' => 
+    array (
+    ),
+    'billing' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'streetAddress' => '12',
+      'extendedAddress' => '',
+      'locality' => 'qè',
+      'region' => '',
+      'postalCode' => '12345',
+      'countryCodeAlpha2' => 'VN',
+    ),
+    'shipping' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'streetAddress' => '12',
+      'extendedAddress' => '',
+      'locality' => 'qè',
+      'region' => NULL,
+      'postalCode' => '12345',
+      'countryCodeAlpha2' => 'VN',
+      'countryCodeAlpha3' => 'VNM',
+    ),
+    'deviceData' => '{"correlation_id":"170c243043d0d9a19be948d2f4ebdf8e"}',
+    'purchaseOrderNumber' => '000000003',
+    'taxAmount' => '4.66',
+    'discountAmount' => '0',
+    'lineItems' => 
+    array (
+      0 => 
+      array (
+        'name' => 'Christmas mix',
+        'kind' => 'debit',
+        'quantity' => '1',
+        'unitAmount' => '52.25',
+        'unitOfMeasure' => 'simple',
+        'totalAmount' => '52.25',
+        'taxAmount' => '4.18',
+        'discountAmount' => '0',
+        'productCode' => 'Christmas mi',
+        'commodityCode' => 'Christmas mi',
+        'description' => '',
+      ),
+    ),
+    'shippingAmount' => '6',
+    'shipsFromPostalCode' => NULL,
+  ),
+  'client' => 'PayPal\\Braintree\\Gateway\\Http\\Client\\TransactionSale',
+  'response' => 
+  array (
+  ),
+) [] []
+[2024-01-01T17:16:38.807284+00:00] main.DEBUG: array (
+  'request' => 
+  array (
+    'customer' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'phone' => '124567',
+      'email' => 'abc@mail.com',
+    ),
+    'amount' => '62.91',
+    'paymentMethodNonce' => 'tokencc_bj_npy6pv_vyf45s_dtv5fy_3c6frb_v53',
+    'orderId' => '000000004',
+    'merchantAccountId' => 'w9p3sr2vk8z7zjnc',
+    'channel' => 'Magento2GeneBT',
+    'options' => 
+    array (
+      'skipAdvancedFraudChecking' => false,
+    ),
+    'customFields' => 
+    array (
+    ),
+    'billing' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'streetAddress' => '12',
+      'extendedAddress' => '',
+      'locality' => 'qè',
+      'region' => '',
+      'postalCode' => '12345',
+      'countryCodeAlpha2' => 'VN',
+    ),
+    'shipping' => 
+    array (
+      'firstName' => '123',
+      'lastName' => '123',
+      'company' => '122',
+      'streetAddress' => '12',
+      'extendedAddress' => '',
+      'locality' => 'qè',
+      'region' => NULL,
+      'postalCode' => '12345',
+      'countryCodeAlpha2' => 'VN',
+      'countryCodeAlpha3' => 'VNM',
+    ),
+    'deviceData' => '{"correlation_id":"170c243043d0d9a19be948d2f4ebdf8e"}',
+    'purchaseOrderNumber' => '000000004',
+    'taxAmount' => '4.66',
+    'discountAmount' => '0',
+    'lineItems' => 
+    array (
+      0 => 
+      array (
+        'name' => 'Christmas mix',
+        'kind' => 'debit',
+        'quantity' => '1',
+        'unitAmount' => '52.25',
+        'unitOfMeasure' => 'simple',
+        'totalAmount' => '52.25',
+        'taxAmount' => '4.18',
+        'discountAmount' => '0',
+        'productCode' => 'Christmas mi',
+        'commodityCode' => 'Christmas mi',
+        'description' => '',
+      ),
+    ),
+    'shippingAmount' => '6',
+    'shipsFromPostalCode' => NULL,
+  ),
+  'client' => 'PayPal\\Braintree\\Gateway\\Http\\Client\\TransactionSale',
+  'response' => 
+  array (
+  ),
+) [] []

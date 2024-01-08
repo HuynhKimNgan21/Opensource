@@ -1,0 +1,29 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704216563;s:6:"expire";i:1704220163;s:4:"tags";s:46:"ca3_BLOCK_HTML,ca3_CAT_P_53,ca3_CAT_P,ca3_MAGE";}
+
+            <div class="field configurable required">
+            <label class="label" for="attribute137">
+                <span>Type</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[137]"
+                        data-selector="super_attribute[137]"
+                        data-validate="{required:true}"
+                        id="attribute137"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+        {
+            "#product_addtocart_form": {
+                "configurable": {
+                    "spConfig": {"attributes":{"137":{"id":"137","code":"type","label":"Type","options":[{"id":"7","label":"Option 1","products":["49"]},{"id":"8","label":"Option 2","products":["51"]},{"id":"9","label":"Option 3","products":["52"]},{"id":"10","label":"Option 4","products":["50"]}],"position":"0"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"49":{"baseOldPrice":{"amount":49},"oldPrice":{"amount":49},"basePrice":{"amount":49},"finalPrice":{"amount":49},"tierPrices":[],"msrpPrice":{"amount":0}},"50":{"baseOldPrice":{"amount":45},"oldPrice":{"amount":45},"basePrice":{"amount":45},"finalPrice":{"amount":45},"tierPrices":[],"msrpPrice":{"amount":0}},"51":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"52":{"baseOldPrice":{"amount":46},"oldPrice":{"amount":46},"basePrice":{"amount":46},"finalPrice":{"amount":46},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42}},"productId":"53","chooseText":"Choose an Option...","images":{"49":[{"thumb":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\91ab9b49e276277a8f7c09df6dec54fe\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_53__2_1.png","img":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\03b939c74d1b95812cd6d992a3034951\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_53__2_1.png","full":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\2dda3e623e388378a45837afb978449f\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_53__2_1.png","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"50":[{"thumb":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\91ab9b49e276277a8f7c09df6dec54fe\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_54__1_1.png","img":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\03b939c74d1b95812cd6d992a3034951\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_54__1_1.png","full":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\2dda3e623e388378a45837afb978449f\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_54__1_1.png","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"51":[{"thumb":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\91ab9b49e276277a8f7c09df6dec54fe\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_55__1_1.png","img":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\03b939c74d1b95812cd6d992a3034951\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_55__1_1.png","full":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\2dda3e623e388378a45837afb978449f\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_55__1_1.png","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"52":[{"thumb":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\91ab9b49e276277a8f7c09df6dec54fe\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_56__2_1.png","img":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\03b939c74d1b95812cd6d992a3034951\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_56__2_1.png","full":"http:\/\/nguyen.magento.com\/media\/catalog\/product\\cache\\2dda3e623e388378a45837afb978449f\\\/\/t\/h\/thi_t_k_ch_a_c_t_n_56__2_1.png","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}]},"index":{"49":{"137":"7"},"50":{"137":"10"},"51":{"137":"8"},"52":{"137":"9"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"49":"Mix many choices-Option 1","50":"Mix many choices-Option 4","51":"Mix many choices-Option 2","52":"Mix many choices-Option 3"}},
+                    "gallerySwitchStrategy": "prepend"
+                }
+            },
+            "*" : {
+                "Magento_ConfigurableProduct/js/catalog-add-to-cart": {}
+            }
+        }
+    </script>
